@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  header h1 {
+    color: khaki;
+    background-image: url("img/pattern.jpeg");
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
