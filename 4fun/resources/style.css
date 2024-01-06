@@ -1,23 +1,36 @@
 * {
-    font-family: Helvetica, Arial, sans-serif;
-  }
-  
-  
-  header h1 {
-    color: khaki;
-    background-image: url("img/pattern.jpeg");
-    text-align: center;
-    font-size: 100px;
-  }
-  
-  
-  p, 
-  li {
-    font-size: 18px;
-  }
-  
-  
-  a {
-    text-decoration: none;
-  }
-  
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header h1 {
+  color: khaki;
+  background-image: url("img/pattern.jpeg");
+  text-align: center;
+  font-size: 100px;
+}
+
+section.brushes h2 {
+  background-color: mediumspringgreen;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+section.frames h2 {
+  background-color: lightcoral;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+section.paint h2 {
+  background-color: skyblue;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+}
